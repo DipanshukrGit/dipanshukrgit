@@ -67,6 +67,22 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+### 📱 Mobile Development
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Expo_Router](https://img.shields.io/badge/Expo_Router-000000?style=for-the-badge&logo=expo&logoColor=white)
+![AsyncStorage](https://img.shields.io/badge/AsyncStorage-6C63FF?style=for-the-badge)
+![SecureStore](https://img.shields.io/badge/SecureStore-2E7D32?style=for-the-badge)
+![MMKV](https://img.shields.io/badge/MMKV-FF6B6B?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![React_Navigation](https://img.shields.io/badge/React_Navigation-6B46C1?style=for-the-badge)
+![Expo_Image_Picker](https://img.shields.io/badge/Expo_Image_Picker-4630EB?style=for-the-badge&logo=expo&logoColor=white)
+![Expo_File_System](https://img.shields.io/badge/Expo_File_System-4630EB?style=for-the-badge&logo=expo&logoColor=white)
+![React_Hook_Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Formik](https://img.shields.io/badge/Formik-2563EB?style=for-the-badge)
+![Yup](https://img.shields.io/badge/Yup-22C55E?style=for-the-badge)
+
 ### 🤖 AI & Productivity
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
